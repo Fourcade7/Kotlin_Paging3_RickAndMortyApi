@@ -7,9 +7,9 @@
       //Retrofit
       implementation 'com.squareup.retrofit2:retrofit:2.9.0'
       implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
-  //    //Dagger Hilt
-  //    implementation "com.google.dagger:hilt-android:2.44"
-  //    kapt "com.google.dagger:hilt-compiler:2.44"
+        //    //Dagger Hilt
+        //    implementation "com.google.dagger:hilt-android:2.44"
+        //    kapt "com.google.dagger:hilt-compiler:2.44"
 
       def lifecycle_version = "2.6.1"
       // ViewModel //Coroutine Lifecycle Scopes
